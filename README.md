@@ -4,7 +4,7 @@
 
 # Attendance
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
+勤怠管理のマイクロサービスです。将来的に外部サービスにインテグレーションされることを想定しています。
 
 ## Development server
 
