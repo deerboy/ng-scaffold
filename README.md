@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/deer-inc/attendance.svg?branch=master)](https://travis-ci.com/deer-inc/attendance)
+[![Coverage Status](https://coveralls.io/repos/github/deer-inc/attendance/badge.svg?branch=master)](https://coveralls.io/github/deer-inc/attendance?branch=master)
+![MIT License](https://img.shields.io/github/license/deer-inc/attendance.svg)
+
 # Attendance
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
