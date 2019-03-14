@@ -4,7 +4,7 @@
 
 # Scaffold
 
-勤怠管理のマイクロサービスです。将来的に外部サービスにインテグレーションされることを想定しています。
+Angular + Angular Material + PWA のScaffold
 
 ## Development server
 
