@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/deer-inc/page.svg?branch=master)](https://travis-ci.com/deer-inc/page)
-[![Coverage Status](https://coveralls.io/repos/github/deer-inc/page/badge.svg?branch=master)](https://coveralls.io/github/deer-inc/page?branch=master)
-![MIT License](https://img.shields.io/github/license/deer-inc/page.svg)
+[![Build Status](https://travis-ci.com/deer-inc/scaffold.svg?branch=master)](https://travis-ci.com/deer-inc/scaffold)
+[![Coverage Status](https://coveralls.io/repos/github/deer-inc/scaffold/badge.svg?branch=master)](https://coveralls.io/github/deer-inc/scaffold?branch=master)
+![MIT License](https://img.shields.io/github/license/deer-inc/scaffold.svg)
 
-# page
+# Scaffold
 
 勤怠管理のマイクロサービスです。将来的に外部サービスにインテグレーションされることを想定しています。
 
