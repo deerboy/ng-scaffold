@@ -1,8 +1,8 @@
-[![Build Status](https://travis-ci.com/deer-inc/attendance.svg?branch=master)](https://travis-ci.com/deer-inc/attendance)
-[![Coverage Status](https://coveralls.io/repos/github/deer-inc/attendance/badge.svg?branch=master)](https://coveralls.io/github/deer-inc/attendance?branch=master)
-![MIT License](https://img.shields.io/github/license/deer-inc/attendance.svg)
+[![Build Status](https://travis-ci.com/deer-inc/page.svg?branch=master)](https://travis-ci.com/deer-inc/page)
+[![Coverage Status](https://coveralls.io/repos/github/deer-inc/page/badge.svg?branch=master)](https://coveralls.io/github/deer-inc/page?branch=master)
+![MIT License](https://img.shields.io/github/license/deer-inc/page.svg)
 
-# Attendance
+# page
 
 勤怠管理のマイクロサービスです。将来的に外部サービスにインテグレーションされることを想定しています。
 
